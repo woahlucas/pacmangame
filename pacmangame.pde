@@ -1,3 +1,5 @@
+/* para jogar, comece criando paredes com o botão esquerdo do mouse, depois aperte Enter para iniciar o jogo e coma todas as frutinhas! */
+
 int [] [] M = new int [30][30]; //<>//
 
 //posição inicial do pacman
